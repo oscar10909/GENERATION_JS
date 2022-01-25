@@ -11,7 +11,7 @@
 } */
 
 
-class Animal{
+class Animal{ //primera letra debe ser mayuscula
 /*En el constructor se pondrían los valores iniciales, 
 si tu necesitas recuperar los valores o cambiarlos necesitas 
 los métodos get y set
